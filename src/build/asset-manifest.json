@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b061725.css",
+    "main.js": "/static/js/main.2b1e8193.js",
+    "static/js/787.a361b86b.chunk.js": "/static/js/787.a361b86b.chunk.js",
+    "static/media/sheehan-dp.jpeg": "/static/media/sheehan-dp.0442630cf8162c897d4f.jpeg",
+    "index.html": "/index.html",
+    "main.8b061725.css.map": "/static/css/main.8b061725.css.map",
+    "main.2b1e8193.js.map": "/static/js/main.2b1e8193.js.map",
+    "787.a361b86b.chunk.js.map": "/static/js/787.a361b86b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b061725.css",
+    "static/js/main.2b1e8193.js"
+  ]
+}
